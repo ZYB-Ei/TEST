@@ -1,0 +1,5 @@
+﻿D:\ Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(test.9.4.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  test.c
+C:\Users\zyb\source\repos\test.9.4\test.9.4\test.c(17,6): warning C4013: “gets”未定义；假设外部返回 int
+C:\Users\zyb\source\repos\test.9.4\test.9.4\test.c(18,18): warning C4013: “strlen”未定义；假设外部返回 int
+  test.9.4.vcxproj -> C:\Users\zyb\source\repos\test.9.4\Debug\倒置字符串.exe
